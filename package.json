@@ -1,0 +1,24 @@
+{
+  "name": "sift-ts",
+  "version": "0.0.1",
+  "description": "A predicate-based array filtering system for strongly-typed results",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JLambertazzo/sift-ts.git"
+  },
+  "author": "Julien Bertazzo Lambert",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JLambertazzo/sift-ts/issues"
+  },
+  "homepage": "https://github.com/JLambertazzo/sift-ts#readme",
+  "devDependencies": {
+    "@types/jest": "^29.5.14",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.2.5"
+  }
+}
